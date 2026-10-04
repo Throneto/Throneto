@@ -22,8 +22,13 @@ AI 产品开发 · 全栈应用 · 内容创作 · 知识管理
 
 <div align="center">
 
-**用热情和技术构建 | Built with passion and technology**
+---
 
-[𝕏]https://x.com/ValarMind（https://x.com/ValarMind)
+`BUILT WITH PASSION`  ×  `POWERED BY TECHNOLOGY`
 
+**用热情构建，以技术驱动。**
+
+[ **𝕏 @ValarMind** ](https://x.com/ValarMind)
+
+---
 </div>
