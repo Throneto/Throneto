@@ -1,28 +1,24 @@
-# Hi, I'm Vincent 👋
+# Hi, I'm Valar 👋
 
 > 全栈开发者 · 设计师 · AI 产品创造者
 
-热衷于用代码创造优雅的数字体验，将技术与艺术结合。正在探索 AI 的无限可能，并分享我的学习与思考。
-
-## 🚀 What I'm Building
-
-- 🤖 **AI 产品** - [PromptValar AI](https://valarzai.com/) - AI prompt engineering platform ✨
-- 📝 **知识库** - [VALARZAI](https://valarzai.com/) - Curated knowledge base & tech exploration
-- 🎨 **资源整理** - 涵盖开发、设计、AI、游戏、摄影、音乐等领域
+喜欢用代码实现想法，用设计创造清晰、自然的数字体验。持续探索 AI 应用、本地模型与自动化工作流，并将实践沉淀为可复用的工具与知识。
 
 ## 🛠️ Tech Stack
 
-**前端** React · TypeScript · WebAssembly  
-**后端** Node.js · GraphQL · RESTful APIs  
-**AI/ML** LLM Fine-tuning · RAG · Vector DB  
-**DevOps** Kubernetes · CI/CD · Cloud  
-**设计** UI/UX · Design Systems · Accessibility
+- **前端** React · Next.js · TypeScript
+- **后端** Python · FastAPI · Node.js · PostgreSQL
+- **AI** LLM · RAG · 多模态 · 本地推理
+- **工程与设计** Docker · Git · 自动化 · UI/UX
 
 ## 🎯 Current Focus
 
-🤖 AI 产品开发 | 💻 全栈开发 | 📚 知识分享
+AI 产品开发 · 全栈应用 · 内容创作 · 知识管理
 
 ---
+
+**保持好奇，持续构建。**
+
 
 <div align="center">
 
